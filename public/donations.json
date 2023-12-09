@@ -1,0 +1,134 @@
+[
+  {
+    "id": 11,
+    "category": "Food",
+    "image": "https://i.ibb.co/jG9gvPX/Food.png",
+    "title": "Meal Delivery for Seniors",
+    "description": "Deliver meals to senior citizens who may have difficulty accessing food.",
+    "background_color": "rgba(248, 113, 71, 0.15)",
+    "text_color": "#F87147",
+    "button_color": "rgba(248, 113, 71, 0.2)",
+    "donate": 200
+  },
+  {
+    "id": 9,
+    "category": "Clothing",
+    "image": "https://i.ibb.co/mTCrXZp/Clothing.png",
+    "title": "Children's Clothing Drive",
+    "description": "Collect clothing for children in need to ensure they stay warm and comfortable.",
+    "background_color": "rgba(121, 194, 63, 0.15)",
+    "text_color": "#79C23F",
+    "button_color": "rgba(121, 194, 63, 0.2)",
+    "donate": 110
+  },
+  {
+    "id": 1,
+    "category": "Health",
+    "image": "https://i.ibb.co/Tm49Bwr/Health.png",
+    "title": "Donate to Medical Research",
+    "description": "Contribute to medical research projects aimed at finding cures for diseases.",
+    "background_color": "rgba(0, 82, 255, 0.15)",
+    "text_color": "#0052FF",
+    "button_color": "rgba(0, 82, 255, 0.2)",
+    "donate": 100
+  },
+  {
+    "id": 7,
+    "category": "Clothing",
+    "image": "https://i.ibb.co/mTCrXZp/Clothing.png",
+    "title": "Donate Warm Clothing",
+    "description": "Provide warm clothing to those in need during the cold winter months.",
+    "background_color": "rgba(121, 194, 63, 0.15)",
+    "text_color": "#79C23F",
+    "button_color": "rgba(121, 194, 63, 0.2)",
+    "donate": 140
+  },
+  {
+    "id": 12,
+    "category": "Food",
+    "image": "https://i.ibb.co/jG9gvPX/Food.png",
+    "title": "Community Garden Projects",
+    "description": "Support community gardens that provide fresh produce to local residents.",
+    "background_color": "rgba(248, 113, 71, 0.15)",
+    "text_color": "#F87147",
+    "button_color": "rgba(248, 113, 71, 0.2)",
+    "donate": 150
+  },
+  {
+    "id": 4,
+    "category": "Education",
+    "image": "https://i.ibb.co/Qkys3PQ/Education.png",
+    "title": "Support Education in Areas",
+    "description": "Help provide quality education to children in underserved communities.",
+    "background_color": "rgba(255, 68, 74, 0.15)",
+    "text_color": "#FF444A",
+    "button_color": "rgba(255, 68, 74, 0.2)",
+    "donate": 170
+  },
+  {
+    "id": 10,
+    "category": "Food",
+    "image": "https://i.ibb.co/jG9gvPX/Food.png",
+    "title": "Support Food Banks",
+    "description": "Help provide food to those in need through local food banks and organizations.",
+    "background_color": "rgba(248, 113, 71, 0.15)",
+    "text_color": "#F87147",
+    "button_color": "rgba(248, 113, 71, 0.2)",
+    "donate": 120
+  },
+  {
+    "id": 3,
+    "category": "Health",
+    "image": "https://i.ibb.co/Tm49Bwr/Health.png",
+    "title": "Mental Health Awareness",
+    "description": "Support mental health initiatives and raise awareness about mental well-being.",
+    "background_color": "rgba(0, 82, 255, 0.15)",
+    "text_color": "#0052FF",
+    "button_color": "rgba(0, 82, 255, 0.2)",
+    "donate": 120
+  },
+  {
+    "id": 5,
+    "category": "Education",
+    "image": "https://i.ibb.co/Qkys3PQ/Education.png",
+    "title": "Empower the Next Generation",
+    "description": "Invest in programs that empower and educate young people for a better future.",
+    "background_color": "rgba(255, 68, 74, 0.15)",
+    "text_color": "#FF444A",
+    "button_color": "rgba(255, 68, 74, 0.2)",
+    "donate": 130
+  },
+  {
+    "id": 2,
+    "category": "Health",
+    "image": "https://i.ibb.co/Tm49Bwr/Health.png",
+    "title": "Support Healthcare Workers",
+    "description": "Provide assistance and resources to healthcare professionals on the frontlines.",
+    "background_color": "rgba(0, 82, 255, 0.15)",
+    "text_color": "#0052FF",
+    "button_color": "rgba(0, 82, 255, 0.2)",
+    "donate": 150
+  },
+  {
+    "id": 6,
+    "category": "Education",
+    "image": "https://i.ibb.co/Qkys3PQ/Education.png",
+    "title": "Support STEM Education",
+    "description": "Encourage science, technology, engineering, and math education for all.",
+    "background_color": "rgba(255, 68, 74, 0.15)",
+    "text_color": "#FF444A",
+    "button_color": "rgba(255, 68, 74, 0.2)",
+    "donate": 160
+  },
+  {
+    "id": 8,
+    "category": "Clothing",
+    "image": "https://i.ibb.co/mTCrXZp/Clothing.png",
+    "title": "Clothing for Homeless Shelters",
+    "description": "Support shelters by donating clothing to help those experiencing homelessness.",
+    "background_color": "rgba(121, 194, 63, 0.15)",
+    "text_color": "#79C23F",
+    "button_color": "rgba(121, 194, 63, 0.2)",
+    "donate": 190
+  }
+]
